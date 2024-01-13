@@ -27,6 +27,6 @@ user = User(name='Sergei',
             hobby='Reading',
             picture='bar-h.png',
             address='SPB',
-            # state='Haryana', сломал
-            state='Colombo',
+            state='Haryana',
+            # state='Colombo',
             city='Karnal')
